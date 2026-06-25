@@ -1,4 +1,5 @@
 openapi: 3.0.0
+testing bad code quality 1234: }
 servers:
   -
     url: /b2b/v2
